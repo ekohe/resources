@@ -1,5 +1,5 @@
 ## Additional Android Resources
 
-coming soon
+Coming soon
 
 

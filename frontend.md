@@ -1,4 +1,4 @@
-## Additonal Web Frontend Resources
+## Additional Web Frontend Resources
 
 ### Autocomplete
 [Awesomplete](https://github.com/LeaVerou/awesomplete)

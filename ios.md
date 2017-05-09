@@ -1,3 +1,3 @@
-## iOS Resources
+## Additional iOS Resources
 
 Coming soon
