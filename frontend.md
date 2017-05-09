@@ -1,10 +1,10 @@
-# Web Frontend Resources
+## Additonal Web Frontend Resources
 
-## Autocomplete
+### Autocomplete
 [Awesomplete](https://github.com/LeaVerou/awesomplete)
 
-## Input Mask
+### Input Mask
 [Inputmask](https://github.com/RobinHerbots/Inputmask)
 
-## Date Time Picker
+### Date Time Picker
 [flatpickr](https://github.com/chmln/flatpickr) 
